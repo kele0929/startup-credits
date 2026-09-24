@@ -10,6 +10,7 @@ entity:
       valid_from: 2026-09-03T23:53:15.000Z
   category: observability
 profile:
+  summary: PagerDuty is an AI-powered operations platform that helps teams manage the full incident lifecycle, from detection and on-call response through resolution.
   description: PagerDuty is an operations platform for incident response, on-call management, and automated remediation.
   links:
     site: https://www.pagerduty.com/
@@ -39,7 +40,7 @@ offers:
         kind: none
       benefits:
         - benefit_id: ben_01
-          description: Six months of PagerDuty AI-Powered Operations at $0, including 20 seats per year, 20,000 events, and 1,000 AI actions
+          description: AI-Powered Operations at $0 for 6 months, including 20 seats per year, 20,000 events, and 1,000 AI actions, with no credit card required
           duration:
             kind: exact
             value: P6M
