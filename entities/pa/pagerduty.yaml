@@ -40,12 +40,12 @@ offers:
         kind: none
       benefits:
         - benefit_id: ben_01
-          description: AI-Powered Operations at $0 for 6 months, including 20 seats per year, 20,000 events, and 1,000 AI actions, with no credit card required
+          description: Get 6 months of AI-Powered Operations free.
           duration:
             kind: exact
             value: P6M
           kind: free-service
-          service: PagerDuty AI-Powered Operations
+          service: AI-Powered Operations
     eligibility:
       rule:
         kind: all
